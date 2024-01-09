@@ -1,1 +1,3 @@
-"# halopova_django2k-11-200_exam" 
+- python -m venv env - создание виртуального окружения
+- env\Scripts\activate - запуск
+- pip install -r requirements.txt - установка зависимосей
